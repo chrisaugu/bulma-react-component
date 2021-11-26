@@ -1,4 +1,5 @@
-# Burma CSS for ReactJS
+# BulmaReactComponent
+## Bulma CSS for ReactJS
 
 
 
